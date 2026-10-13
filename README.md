@@ -13,13 +13,13 @@ Sitio web comercial de Del Caribe Distribuciones para presentar la selección de
 
 ## Configuración de WhatsApp
 
-En el archivo script.js, reemplaza el valor de WHATSAPP_NUMBER con el número comercial en formato internacional, sin signos ni espacios.
+El número comercial de WhatsApp ya está configurado en `script.js` en formato internacional, sin signos ni espacios.
 
 Ejemplo:
 
-    const WHATSAPP_NUMBER = "51987654321";
+    const WHATSAPP_NUMBER = "51969299674";
 
-Si el número queda vacío, WhatsApp abrirá el selector de destinatario con el mensaje preparado.
+Para cambiar el destino de las cotizaciones, actualiza ese valor manteniendo el formato internacional.
 
 ## Vista local
 

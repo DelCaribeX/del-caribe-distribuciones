@@ -1,4 +1,4 @@
-const WHATSAPP_NUMBER = "";
+const WHATSAPP_NUMBER = "51969299674";
 
 const header = document.querySelector("[data-header]");
 const menuToggle = document.querySelector("[data-menu-toggle]");
